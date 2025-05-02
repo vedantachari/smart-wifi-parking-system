@@ -2,8 +2,7 @@
 
 A real-time smart parking monitoring system using **ESP8266**, **IR sensors**, and a beautiful **Kivy-based Python GUI**. This project provides a visual interface for tracking the status of parking slots over Wi-Fi.
 [
-![Parking System Demo](https://via.placeholder.com/800x400.png?text=Demo+Image)](https://youtu.be/96bWFbphz6U)
-
+[![Parking System Demo](https://img.youtube.com/vi/96bWFbphz6U/0.jpg)](https://youtu.be/96bWFbphz6U)
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![Kivy](https://img.shields.io/badge/Kivy-2.2.1-green.svg)](https://kivy.org/)
 [![ESP8266](https://img.shields.io/badge/ESP8266-Arduino-orange.svg)](https://arduino-esp8266.readthedocs.io/)
